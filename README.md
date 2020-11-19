@@ -1,2 +1,2 @@
 
-This is first project
+This repo is for go basics.
